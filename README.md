@@ -1,1 +1,1 @@
-# regulatory-display
+# regulation-display
